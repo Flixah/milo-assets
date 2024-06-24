@@ -1,12 +1,12 @@
-## Adds
+## Added
 - Added new feature X.
 - Implemented functionality Y.
 - Introduced option to customize Z.
 
-## Removes
+## Removed
 - Removed deprecated feature A.
 - Deprecated functionality B has been removed.
 
-## Fixes
+## Fixed
 - Fixed bug causing issue C.
 - Resolved issue with feature D not working correctly.
